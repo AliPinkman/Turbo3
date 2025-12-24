@@ -29,6 +29,12 @@
       "type": "N",
       "rew": 5,
       "active": true
+    },
+    {
+      "id_hash": "9ee2a28cceb274815bd8726a82e55d76",
+      "type": "P",
+      "rew": 5,
+      "active": true
     }
   ]
 }
