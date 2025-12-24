@@ -1,0 +1,22 @@
+{
+  "codes": [
+    {
+      "id_hash": "30e0100fde13e1a0471d3402a2d2f451",
+      "type": "G",
+      "rew": 10,
+      "active": true
+    },
+    {
+      "id_hash": "f27509d26ac73682e112844b686e5383",
+      "type": "M",
+      "rew": 1000,
+      "active": true
+    },
+    {
+      "id_hash": "d0efac44e56bc3d610f848d112ed7cb8",
+      "type": "C",
+      "rew": 5,
+      "active": true
+    }
+  ]
+}
